@@ -1,0 +1,84 @@
+stdClass Object
+(
+    [update_id] => 524053462
+    [message] => stdClass Object
+        (
+            [message_id] => 1054
+            [from] => stdClass Object
+                (
+                    [id] => 550081285
+                    [is_bot] => 
+                    [first_name] => іван
+                    [username] => ivanzy2
+                    [language_code] => uk
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 550081285
+                    [first_name] => іван
+                    [username] => ivanzy2
+                    [type] => private
+                )
+
+            [date] => 1728984317
+            [text] => ф
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 524053463
+    [message] => stdClass Object
+        (
+            [message_id] => 1055
+            [from] => stdClass Object
+                (
+                    [id] => 550081285
+                    [is_bot] => 
+                    [first_name] => іван
+                    [username] => ivanzy2
+                    [language_code] => uk
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 550081285
+                    [first_name] => іван
+                    [username] => ivanzy2
+                    [type] => private
+                )
+
+            [date] => 1728984377
+            [text] => ф
+        )
+
+)
+stdClass Object
+(
+    [update_id] => 524053464
+    [message] => stdClass Object
+        (
+            [message_id] => 1056
+            [from] => stdClass Object
+                (
+                    [id] => 550081285
+                    [is_bot] => 
+                    [first_name] => іван
+                    [username] => ivanzy2
+                    [language_code] => uk
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 550081285
+                    [first_name] => іван
+                    [username] => ivanzy2
+                    [type] => private
+                )
+
+            [date] => 1728984413
+            [text] => ф
+        )
+
+)
